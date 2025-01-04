@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @GyabaahFelix
-- 👀 I’m interested in web development and software engineering
-- 🌱 I’m currently studying Bsc.computer science at the university of Ghana,Legon
-- 📫 contact me on 0245402719 or email:fgyabaah003@st.ug.edu.gh
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: a very big football lover aside coding
+👋 Hi, I’m Gyabaah Felix
+About Me
+I am a passionate MERN Fullstack Developer and software engineering enthusiast, currently pursuing a BSc in Computer Science at the University of Ghana, Legon. With a strong foundation in building scalable, efficient, and user-friendly applications, I am dedicated to mastering modern web technologies and creating impactful digital solutions.
 
-<!---
-GyabaahFelix/GyabaahFelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interests
+💻 Fullstack Web Development (MERN)
+🛠 Software Engineering & System Design
+🌐 Exploring TypeScript for robust application development
+⚽ Football enthusiast (off the keyboard, on the field,Felixinho Best!👌)
+Skills & Tools
+Programming Languages: JavaScript, TypeScript, Python, Java
+Frameworks & Libraries: React, Next.js, Express, Node.js
+Databases: MongoDB, MySQL
+Tools & Platforms: GitHub, VS Code, Jupyter lab
+Styling: Tailwind CSS, CSS3, SCSS
+Get in Touch
+📞 Phone: +233 245 402 719
+📧 Email: felixic360@gmail.com
+Fun Fact
+When I'm not coding, you'll likely find me on the football field strategizing my next goal, both on the pitch and in my projects.
